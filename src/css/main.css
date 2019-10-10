@@ -1,1 +1,41 @@
 /* General rules */
+/* General rules */
+*{
+    margin: 0;
+}
+header{
+    background: #ADADAD;
+}
+.header-div{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    /* grid-auto-flow: column; */
+    padding-top: 20px;
+    padding-bottom: 25px;
+    justify-items: center;
+}
+.first-section{
+    /* background: blueviolet; */
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+    align-content: center;
+}
+.content{
+    /* border: 1px solid #000; */
+    height: 900px;
+    display: flex;
+    align-items: center;
+}
+.content:nth-child(1){
+    background: #808080;
+}
+.content:nth-child(2){
+    background: #8D8D8D;
+}
+.content:nth-child(3){
+    background: #8D8D8D;
+}
+.content:nth-child(4){
+    background: #808080;
+}
