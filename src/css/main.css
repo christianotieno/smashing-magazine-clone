@@ -85,3 +85,18 @@ header {
 .latest-post-items p {
     font-size: 30px;
 }
+.community{
+    display: grid;
+    grid-template: repeat(5,1fr) / repeat(4, 1fr);
+    border: 1px solid #000;
+    grid-auto-flow: dense;
+}
+.community>div{
+    width: 350px;
+    height: 500px;
+    background: cornflowerblue;
+    border: 1px solid #000;
+}
+.green-jumbotron{
+    background: green;
+}
