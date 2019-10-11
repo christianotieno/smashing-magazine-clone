@@ -354,33 +354,33 @@ header {
 /* smashing section ends */
 
 .footer {
-    /* background-color: red; */
-    border: 1px solid #000;
-    display: flex;
-    justify-content: center;
-    margin: auto;
-    /* text-align: center; */
+    background: #adadad;
 }
 
+.footer-span {
+    display: block;
+    margin: auto;
+    color: white;
+    padding: 3%;
+    font-weight: bold;
+    text-align: center;
+}
 
-/* 
-.footer-links-options  ul li{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    background: red;
-} */
-
-.grid {
-    /* display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
-    /* grid-template-rows: repeat(4, 1fr); */
-    /* background: blueviolet; */
-    /* font-size: 1.2rem; */
-    /* grid-auto-rows: 20px;
-    grid-column-gap: 0;
-    /* height: 250px; */
+.footer-links-options {
     display: flex;
-    width: 75%;
-    height: 30vh;
-    flex-flow: wrap;
+    background: darkgray;
+}
+
+.footer-links-options ul {
+    display: grid;
+    background: red;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+}
+
+.footer-links-options ul li {
+    flex-wrap: wrap;
+    background: darkgray;
+    list-style-type: circle;
+    border: darkgreen 1px solid;
+    text-align: center;
 }
