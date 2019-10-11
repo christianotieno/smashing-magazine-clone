@@ -6,12 +6,43 @@
 
 You can find the original project specification [here](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
 
-### Contributors Roodz Fernando & Christian Otieno
+## Authors
 
-LInk to live demo [here](https://christianotieno.github.io/smashing-magazine-clone/.)
+[Roodz Fernando](https://github.com/RoodzFernando)
+
+[Christian Otieno](https://github.com/ChristianOtieno)
+
+## Tools Used
+
+- HTML
+- CSS
+- Flex & Grids
+- FontAwsome v5.11.2
+- MarkDown Syntax
+
+## Work Done
+
+- [x] Create header Section
+- [x] Create first-section Div
+- [x] Create Latest-posts Section
+- [x] Crete community Section
+- [x] Create the green Section
+- [x] Create person-of-the-week Section
+- [x] Create other-persons Section
+- [x] Create center-section Section
+- [x] Create curated Section
+- [x] Create smashing-newsletter Section
+- [x] Create footer Section
+- [x] Use Semantic HTML
+- [x] Use Flex and Grids
+- [x] Check CSS with stylelint
+- [x] Check html with W3C validator
+- [x] Validate Readme file with markdown lint
 
 ## How to Install and use
 
 - clone the repository `git clone https://github.com/ChristianOtieno/smashing-magazine-clone.git`
 - open command prompt in `smashing-magazine-clone` folder
 - run the application using open live server functionality.
+
+LInk to live demo [here](https://christianotieno.github.io/smashing-magazine-clone/.)
