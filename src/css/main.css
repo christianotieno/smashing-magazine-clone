@@ -365,22 +365,47 @@ header {
     font-weight: bold;
     text-align: center;
 }
-
-.footer-links-options {
-    display: flex;
-    background: darkgray;
-}
-
-.footer-links-options ul {
-    display: grid;
-    background: red;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-}
-
-.footer-links-options ul li {
-    flex-wrap: wrap;
-    background: darkgray;
-    list-style-type: circle;
-    border: darkgreen 1px solid;
+.footer-links-options{
     text-align: center;
+    background: cornflowerblue;
+}
+
+.footer-links-options ul li{
+    list-style: disc;
+    /* background: red; */
+    
+}
+.link{
+    display: inline-block;
+    padding-left: 0;
+    font-size: calc(1.3em + .2vw);
+    line-height: calc(1.2em + .2vw);
+    word-break: break-word;
+    margin: 0 10px;
+}
+.about-us{
+    text-align: center;
+    padding-top: 55px;
+    font-size: 1.2rem;
+    line-height: 1.2;
+}
+.contact-us{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    text-align: center;
+    
+
+}
+.contact-us ul li{
+    display: inline-block;
+    padding-left: 0;
+    padding-top: 20px;
+    font-size: calc(1.3em + .2vw);
+    line-height: calc(1.2em + .2vw);
+    word-break: break-word;
+    margin: 0 10px;
+    /* border: 1px solid #000; */
+}
+.contact-us ul li a{
+    color:#000;
 }
