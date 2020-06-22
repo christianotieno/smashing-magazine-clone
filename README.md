@@ -6,11 +6,10 @@
 
 You can find the original project specification [here](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
 
-## Authors
 
-[Roodz Fernando](https://github.com/RoodzFernando)
-
-[Christian Otieno](https://github.com/ChristianOtieno)
+|Source Page|Clone page Heatmap|
+|:---:|:---:|
+|![Screeenshot](./src/img/README/screenshot.png "Smashing Magazine page screenshot")|![Screeenshot](./src/img/README/screenshot-design.png "Cloned Heatmap page screenshot")|
 
 ## Tools Used
 
@@ -46,3 +45,17 @@ You can find the original project specification [here](https://www.theodinprojec
 - run the application using open live server functionality.
 
 LInk to live demo [here](https://christianotieno.github.io/smashing-magazine-clone/.)
+
+## Authors
+
+### 1. Roodz Fernando's social links
+
+- Roodz Fernando: [@RoodzFernando](https://github.com/RoodzFernando)
+- Twitter: [@RoodzFernando](https://twitter.com/RoodzFernando)
+- Linkedin: [Roodz Fernando](https://www.linkedin.com/in/roodz-fernando-fleurant/)
+
+### 2. Christian Otieno's social links
+
+- Github: [@christianotieno](https://github.com/christianotieno)
+- Twitter: [@iamchrisotieno](https://twitter.com/iamchrisotieno)
+- Linkedin: [Christian Otieno](https://www.linkedin.com/in/christianotieno/)
